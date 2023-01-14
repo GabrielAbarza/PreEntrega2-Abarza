@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,300&display=swap');
+
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: rgba(238, 130, 238, 0.664);
+  
+   
+}
+
+h1{
+    margin-top: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 80px;
+
+}
+h2{
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+
+.parrafo{
+    font-size: 18px;
+    line-height: 1.8;
+    margin-top: 40px ;
+}
+
+section{
+    padding:120px ;
+}
+
+.navbar{
+    background-color: rgb(219, 79, 219);
+    min-height: 60px;
+    position: relative;
+        
+}
+
+.nav-link{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size:larger;
+ }
+
+ .nav-link:hover{
+    color: black;
+    font-weight: 600;
+ }
+
+ .logo-brand{
+    height: 60px;
+    width: 60px;
+    background-image: url("http://www.clker.com/cliparts/m/F/p/B/D/c/letter-w-monogram-md.png");
+    background-size: cover;
+    background-position: center;
+    margin: 10px 25px 10px 15px;
+ }
+
+ .nav-01{
+    justify-content: center;
+ }
+
+ .navbar-toggler{
+    font-size: 40px;
+ }
+ .navbar-toggler:focus{
+    outline:none ;
+ }
+
+ #hero{
+    background-image: url("https://cdn.pixabay.com/photo/2023/01/10/16/23/hedgehog-7710053_960_720.jpg");
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    padding-top:90px ;
+    height: 900px;
+    color: #ffff;
+ }
+
+ .content-center{
+    max-width: 800px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+ }
+
+.content-img-cr{
+   
+    height: 600px;
+}
+
+ .foot{
+    background-color: black;
+    height: 100px;
+    text-align:center;
+    color: white;
+ }
+
+ .foot-p{
+    font-size: 25px;
+    
+ }
+ .icon-redes{
+    font-size: 30px;
+    letter-spacing: 25px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.logo-inst:hover{
+    background-color: transparent;
+    color: violet;
+    border-radius: 7px;
+    transform: scale(1.5);
+}
+
+.logo-face:hover{
+    color: blue;
+    background-color: black;
+    transform: scale(1.5);
+
+}
+
+.logo-wp:hover{
+    background-color: transparent;
+    color: green;
+    border-radius: 10px;
+    transform: scale(1.5);
+}
+
+#btn-01{
+    background-color: rgba(44, 216, 216, 0.637);
+    border: 2px solid black;
+}
+
+
+
+ 
