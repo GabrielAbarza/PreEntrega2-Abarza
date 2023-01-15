@@ -149,7 +149,13 @@ a{
 
  .form-01{
     margin: 0 auto;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-top: 10%;
     width: 70%;
+ }
+
+
+ .foot-contact{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
  }
