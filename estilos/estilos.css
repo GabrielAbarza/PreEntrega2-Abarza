@@ -148,14 +148,14 @@ a{
 }
 
  .form-01{
-    margin: 0 auto;
-    margin-top: 10%;
+    margin-top: 5%;
     width: 70%;
  }
 
 
- .foot-contact{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+ 
+ .body-contact{
+  display:grid;
+  min-height: 100vh;
+  grid-template-rows: auto 1fr auto;
  }
