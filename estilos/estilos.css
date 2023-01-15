@@ -72,6 +72,12 @@ section{
     outline:none ;
  }
 
+ .navbar-btn-01:hover{
+    background-color: transparent;
+    color: white;
+    transform: scale(1.2);
+}
+
  #hero{
     background-image: url("https://cdn.pixabay.com/photo/2023/01/10/16/23/hedgehog-7710053_960_720.jpg");
     width: 100%;
